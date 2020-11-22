@@ -1,3 +1,3 @@
-# thethingsplanet.github.io
+# The ThingsPlanet
 
-The ThingsPlanet
+The Open Source Platform for IoT
